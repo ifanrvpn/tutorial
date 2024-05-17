@@ -68,7 +68,7 @@ Clash Verge国内下载:--->[点击下载](https://wwv.lanzouh.com/ipD2Q1ysmx8h)
  点击 **代理** 选择规则或全局模式，根据自己的需求配置策略组即可。<br>
 
 
- <img src=" https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-4.gif" loop="true" autoplay="true"> 
+ <img src=" https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-4.gif" loop="true" autoplay="true">
 
 -----------
 
