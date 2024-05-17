@@ -14,17 +14,19 @@ height=600
 width=800> 
 </iframe>
 <!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->        
+<!-- B站分享链接提供 -->      
+
+<img src="https://sev7en.blog/wp-content/uploads/2024/05/5156-ezgif.com-gif-maker.gif" loop="true" autoplay="true">
 
 -----------
 
-<html>
+<html> 
 <body>
 
 
  <h5 style="background-color:LightGray;">
 🤗 更新失败解决办法:  <br>       
- 在 Clash 客户端的「订阅」栏中右键删除 「.yaml」 的配置文件。根据上述的教程一步一步操作，重新配置导入节点。
+ 在 Clash 客户端的「订阅」栏中右键删除 「.yaml」 的配置文件。根据上述的教程一步一步操作，重新配置导入节点。   
 </h5>
 
 </html>
