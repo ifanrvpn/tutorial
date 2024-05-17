@@ -16,19 +16,10 @@ Clash Verge国内下载:--->[点击下载](https://wwv.lanzouh.com/ipD2Q1ysmx8h)
 ## 解压安装
 安装客户端
 
-将下载好的压缩包直接解压到电脑内某目录，打开该目录「 Clash.Verge 」双击安装运行并在弹出的提示提示框中点击「是」继续即可。     
-<iframe 
-src="https://sev7en.blog/wp-content/uploads/2024/05/5%E6%9C%8815%E6%97%A5.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->
+将下载好的压缩包直接解压到电脑内某目录，打开该目录「 Clash.Verge 」安装运行并在弹出的提示提示框中点击「是」继续即可。     
+
+<img src="https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter.gif" loop="true" autoplay="true">   
+
 
 ------
 
@@ -37,18 +28,9 @@ width=800>
 ## ``🚀导入订阅链接``
 ##### 方式一 一键自动导入
 使用浏览器登录 **[翻儿Cloud官网](https://zifanr.net/)  – 「首页」** 右下角 点击 **「一键导入 Clash(X) 配置文件」** 按钮 后会自动提示跳转到 Clash客户端，根据提示打开「Clash Verge for Windows」，此时 Clash Verge客户端中会出现导入的配置文件，点击选中配置文件即可。    
-<iframe 
-src="https://sev7en.blog/wp-content/uploads/2024/05/5%E6%9C%8815%E6%97%A5-1.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->     
+
+
+<img src="https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-1.gif" loop="true" autoplay="true">  
 
 ```
  温馨提示
@@ -63,36 +45,18 @@ width=800>
   浏览器登录进入 **[翻儿Cloud官网](https://zifanr.net/) 「首页」**右下角点击  **[手动复制ClashX订阅地址]**，如果您忘记了翻儿Cloud官网地址可前往地址发布页 [点击前往](https://ifanrvpn.github.io/) 找到最新的官网地址。
 
 客户端 “订阅” 页面中的输入框中填入自己的Clash订阅链接地址即可- 点击 **[导入]** 代理配置文件。    
-<iframe 
-src="https://sev7en.blog/wp-content/uploads/2024/05/5%E6%9C%8815%E6%97%A5-2.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->     
+
+<img src="https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-2.gif" loop="true" autoplay="true"> 
 
 --------
 
 #### 方式三 手动甩进去   
 览器登录进入 **[翻儿Cloud官网](https://zifanr.net/) 「首页」**右下角点击  **[手动复制ClashX订阅地址]**  将复制的地址从浏览器中打开，此时会自动下载一个后缀为 **「.yaml」**的配置文件。
 返回客户端的 **「订阅」**页面，选择刚刚下载后缀为 **「.yaml」**的配置文件把文件拖拽进去即可。此时 ClashVerge客户端中订阅页面会出现翻儿CLoud的配置文件。
-<iframe 
-src="https://sev7en.blog/wp-content/uploads/2024/05/5%E6%9C%8815%E6%97%A5-3.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->        
+    
+
+<img src="https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-3.gif" loop="true" autoplay="true"> 
+
 
 ```
 友情提示：
@@ -103,18 +67,8 @@ width=800>
 ## ``👽开启系统代理``
  点击 **代理** 选择规则或全局模式，根据自己的需求配置策略组即可。<br>
 
- <iframe 
-src="https://sev7en.blog/wp-content/uploads/2024/05/5%E6%9C%8815%E6%97%A5-4.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->      
+
+ <img src=" https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-4.gif" loop="true" autoplay="true"> 
 
 -----------
 
@@ -128,22 +82,12 @@ width=800>
 ### Tun 模式    
 如果要开启先点击 服务模式旁边的盾牌图标 点击INSTALLl安装，开启后会生成虚拟网卡，使所有流量都通过代理。      
  
- ### Tun模式=系统代理 
+ ### Tun模式 与 系统代理只开一个。 
 
 <h4 style="background-color:Orange;"> 提示: 开启Tun模式后关闭系统代理,否则不会有效开启Tun模式。</h4>
 
- <iframe 
-src="https://sev7en.blog/wp-content/uploads/2024/05/5%E6%9C%8815%E6%97%A5-5.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->      
+
+ <img src=" https://sev7en.blog/wp-content/uploads/2024/05/ezgif.com-video-to-gif-converter-5.gif" loop="true" autoplay="true"> 
 
 -----
 ```
